@@ -1,1 +1,1 @@
-simple aws rotation access key using python and aws,
+simple aws rotation access key using python and aws lumbda function,
